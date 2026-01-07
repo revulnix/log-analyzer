@@ -1,0 +1,6 @@
+Jan  1 00:00:01 host sshd[12345]: Failed password for invalid user admin from 203.0.113.5 port 55874 ssh2
+Jan  1 00:00:02 host sshd[12346]: Failed password for root from 203.0.113.5 port 55875 ssh2
+Jan  1 00:00:03 host sshd[12347]: Failed password for root from 203.0.113.5 port 55876 ssh2
+Jan  1 00:00:04 host sshd[12348]: Accepted password for alice from 198.51.100.2 port 34567 ssh2
+Jan  1 00:00:05 host sshd[12349]: Failed password for bob from 192.0.2.7 port 45678 ssh2
+Jan  1 00:00:06 host sshd[12350]: Accepted publickey for deploy from 203.0.113.9 port 2222 ssh2
