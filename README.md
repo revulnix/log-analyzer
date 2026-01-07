@@ -23,7 +23,4 @@ Run tests
    pip install -r requirements.txt
    pytest
 
-Notes
 
-- Use this tool only on systems and logs you own or are authorized to analyze.
-- The sample log is small and included for test coverage and demonstration.
